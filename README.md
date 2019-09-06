@@ -1,6 +1,6 @@
-# remote-resource
+# remote-resource [![Build Status](https://travis-ci.org/FabienHenon/remote-resource.svg?branch=master)](https://travis-ci.org/FabienHenon/remote-resource)
 
-Remote Resource alllows you to handle foreground and background resources, using [https://package.elm-lang.org/packages/krisajenkins/remotedata/latest/](RemoteData).
+Remote Resource alllows you to handle foreground and background resources, using [RemoteData](https://package.elm-lang.org/packages/krisajenkins/remotedata/latest/).
 
 For instance, let's say you want to retrieve a list of posts. You are using the RemoteData package, thus you can handle the state of your request (Loading, Success, etc...).
 You will probably display a loading icon while your request is in progress, and once it has been fully retrieved you will display your posts.
