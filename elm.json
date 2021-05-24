@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "calions-app/remote-resource",
+    "name": "FabienHenon/remote-resource",
     "summary": "Handle foreground and background resources",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "RemoteResource"
     ],
